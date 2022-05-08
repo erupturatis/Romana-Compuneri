@@ -1,0 +1,26 @@
+Scriitor reprezentativ pentru simbolism, Lucian Blaga aduce prin opera sa, o contributie definitorie pentru estetica acestei manifestari literare in spatiul romanesc. Viziunea sa artistica despre lume, se construieste pe fundamentele unui mod aparte de a interpreta existena, in datele ei esentiale.
+
+Modernismul este un curent literar aparut in a doua jumatate a secolului al XIX-lea, definit prin incercarea ruperii de traditie si promovarea unor noi forme culturale. In spatiul romanesc, teoreticianul modernismului interbelic este Eugen Lovinescu, iar ideile definitorii s-au format in jurul revistei si cenaclului "Sburatorul". Din perspectiva acestuia, lirica romana necesita noi forme de liricizare si intelectualizare pentru modernizare si sincronizare cu occidentul
+
+Poezia "Eu nu strivesc corola de minuni a lumii" deschide volumul "Poemele luminii" publicat in anul 1919. Poezia reflecta o etapa expresionista a liricii blagiene si reda viziunea modernista a autorului. Poezia este de asemenea o arta poetica.
+
+Un element cheie in intelegerea poeziilor scrise de Lucian Blaga este studierea conceptului de mister, care sta la baza modului in care acesta se raporteaza la cunoasterea lumii. Poetul-filozof conceptualizeaza 2 tipuri de cunoastere, care ii definesc viziunea moderna. Prima este cunoasterea luciferica, bazata in sentimente, iubire si contemplare, care este specifica artistului si are ca scop adancirea misterului. A doua este cunoasterea paradisiaca, de tip stiintific, care are la baza logica si ratiunea, avand ca scop rezolvarea misterului, ducand la anularea acestuia.
+
+In spirit expresionist, curent literar ce apartine modernismului, eul liric este plasat in centrul universului prin expansiunea eului creator si spiritualizarea peisajului. Formulata ca un monolog liric, poezia apartine modernismului interbelic prin viziunea poetica a unui "eu" care concepe cunoasterea prin imbogatirea tainei, nu prin eliminarea ei.
+
+O alta componenta a textului ce reflecta modernismul viziunii artistice o constituie structura poeziei, formata dintr-o strofa unica ce include 3 secvente compuse din versuri inegale ca masura, in care se regaseste tehnica ingambamentului.
+
+
+ Dupa Boris Tomasevski, tema reprezinta "unitatea sensurilor diverselor elemente ale operei". In poezia "Eu nu strivesc corola de minuni a lumii", tema este cea a conditiei artistului in lume, iar asociata acesteia este tema creatiei, a iubirii si a cunoasterii.
+ 
+ Titlul sustine tema cunoasterii si pe cea a conditiei poetului, fiind un element ce dezvolta relatii sintactice si semantice cu textul. De tip analitic, acesta este o metafora revelatorie, care face referinta la cunoasterea luciferica. "corola de minuni" reprezinta marea taina si perfectiunea acesteia prin forma circulara ca a unei corole. Marca "eu", pronume personal urmat de un verb la forma negativa, plaseaza eul liric in fruntea poemului.
+ 
+ Un alt element important pentru tema si viziunea despre lume este incipitul. Acesta reda dorinta poetului de a nu distruge tainele universului, sugerate apoi prin enumeratia de simboluri "flori", "ochi", "buze", "morminte", cuvinte cheie ce desemneaza misterul. "Calea mea" reprezinta un drum unic asumat de poet, de a spori misterele. "Florile" sugereaza natura, vitalitatea, puritatea dar si fragilitatea. "Ochii" reprezinta cunoasterea, frumusetea spirituala, acestia fiind considerati o fereastra a sufletului."Buzele" pot fi un simbol al rostirii, dar si al iubirii prin "sarut", pe cand "mormintele" evoca ideea mortii si a thanatosului, fiind ultima treapta a initierii. Fiecare element poate fi asociat unei varste a fiintei: "florile" reprezinta copilaria si puritatea, "ochii", adolescenta, perioada a descoperirilor, "buzele" sunt simbolul maturitatii, iar "mormintele" reprezinta batranetea si moartea
+ 
+ A doua secventa e construita pe baza unei antiteze dintre cunoasterea luciferica, specifica artistului, si cea paradisiaca specifica celui ce incearca sa descopere lumea pe cale rationala, distrugand misterele universului. Opozitia este accentuata de metaforele "lumina mea/ lumina altora".
+ 
+ A treia secventa, poetul concluzioneaza ca adevarata cunoastere a tainelor lumii este posibila doar prin iubire. Enumeratia este reluata, reprezentand toate elementele pe care poetul le intalneste pe drumul initiatic, astfel ca eul poetic ia insusi parte la mister. De asemenea se remarca o gradare a verbelor la persoana intai ce marcheaza atitudinea eului liric fata de univers. Astfel, verbele la forma negativa din prima secventa "nu strivesc", "nu ucid" sunt contrapunctate de verbele la forma pozitiva din urmatoarea secventa, "sporesc", "imbogatesc", culminand in verbul din ultima parte a textului liric "iubesc".
+ 
+ In concluze "eu nu strivesc corola de minuni a lumii" de Lucian Blaga este o poezie modernista, in care viziunea poetica este contruita reperele unui univers existential modern prin simboluri filosofice, expresivitatea limbajului poetic, ambiguitatea, versificatia nu mai respecta regulile traditionaliste prin ingambament si vers liber.
+ 
+ 

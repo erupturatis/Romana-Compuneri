@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "9dd7b8de378cdbf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d655b2a24710811a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "14 Joc Secund/Bullet points Joc Secund.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41bfe9e6d8bdb79c",
+    "type": "split",
+    "children": [
+      {
+        "id": "739fa8aa4707870e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cecf6a3db04efe8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10a9023070249dbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373
+  },
+  "right": {
+    "id": "63899dd41cc47b0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3930199066e7d099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a90328e1f69dcc11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "14 Joc Secund/Bullet points Joc Secund.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "39ce3f801e6e7d15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8fc87d2d3cc06fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 Eu nu strivesc/Tema si viziunea/Z Complet.md",
+                "mode": "source"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d655b2a24710811a",
+  "lastOpenFiles": [
+    "14 Joc Secund/Bullet points Joc Secund.md",
+    "13 Testament/Bullet points Testament.md",
+    "12 Eu nu strivesc/Bullet points eu nu strivesc.md",
+    "7 Luceafarul/Bullet points Luceafarul.md",
+    "10 Plumb/Bullet points Plumb.md",
+    "Test.md",
+    "10 Plumb/Tema si viziunea/Z Complet.md",
+    "16 Aci sosi pe vremuri/Bullet points aci sosi pe vremuri.md",
+    "16 Aci sosi pe vremuri/Tema si viziunea/Z Complet.md",
+    "11 O scrisoare pierduta/Bullet points O scrisoare pierduta.md"
+  ]
+}
