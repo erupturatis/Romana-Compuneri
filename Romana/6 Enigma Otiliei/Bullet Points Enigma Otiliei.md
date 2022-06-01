@@ -1,5 +1,11 @@
 Introducere
 
+Realism def:
+	-sfarsitul sec 19 - Franta - impotriva romantismului
+	-redarea cu obiectivitate a realitatii
+	-Viziunea artistica a lumii textului ->realista ->reda realismul tipologic -> viziunea obiectiva
+	-teme -> familia, banii
+	-Veridicitatea si verosimilitatea actiunii si a personajelo -> cronotop, detaliul semnificativ
 
 Opera:
 	-enigma de George Calinescu in 1938 e roman realist obiectiv, de factura balzaciana, inglobeaza elemente de modernitate

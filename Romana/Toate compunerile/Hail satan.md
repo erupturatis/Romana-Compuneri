@@ -18,7 +18,7 @@ Genul Epic
  0 [[4 Baltagul/Relatia dintre 2 personaje/Z Complet]]
 5 "Ultima noapte de dragoste, intaia noapte de razboi" - Camil Petrescu
  0 [[5 Ultima noapte de dragost, intaia noapte de razboi/Constructie personaj/Z Complet]]
- 0 [[5 Ultima noapte de dragost, intaia noapte de razboi/Tema si viziunea/Z Complet]]
+ 0 [[5 Ultima noapte de dragost, intaia noapte de razboi/Z Complet]]
  0 [[5 Ultima noapte de dragost, intaia noapte de razboi/Relatia dintre 2 personaje/Z Complet]]
 6 "Enigma Otiliei" - George Calinescu
  0 [[6 Enigma Otiliei/Constructie personaj/Z Complet]]

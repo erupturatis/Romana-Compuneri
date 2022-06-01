@@ -19,7 +19,7 @@ Opera:
 	
 Opera2:	
 	-structurat pe 16 capitole -> 1 asteptarea si pregatirile Vitoriei -> 2 calatoria care reface drumul lui N -> justitia, indeplinirea datinilor
-	-Mitul osirian, Isis si Osiric, are in vedere cautarea Vitoriei alaturi de Gheorghita
+	-Mitul osirian, Isis si Osiris, are in vedere cautarea Vitoriei alaturi de Gheorghita
 
 Titlul:
 	-sintetic, subst comun
