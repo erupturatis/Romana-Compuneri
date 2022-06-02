@@ -5,26 +5,38 @@ Modernism:
 	- intelectualizarea prozei, mediu rural-> citadin
 	- romanul romanesc interbelic se prod prin sincronozia cu filozofia si stiinta dar si cu literatura universala
 	- unicitatea perspectivei narative, naratiunea la pers1
+	-ruperea de traditie prin promovarea unei noi forme culturale
+	-Eugen Lovinescu in Romania, cenaclul "Sburatorul"
+	-Din perspectiva astuia ->lirica romana -> trebuie liricizare si intelectualizare 
 	- dezvoltarea romanului de analiza psihologica 
 
 
 Opera:
 	- Camil Petrescu, 1930
+	- roman interbelic, modernist, psihologic, subiectiv
 	- formual estetica proustiana, directie modernista
 	- respinge romanul traditional -> sincronizare cu psihologia si filozofia epocii
 	- arg1 -> schimbarea mediului rural cu cel citadin -> o scoate din tiparul realist cu satenii
-	- arg2 -> naratiunea la personaa 1, naratorul are rolul de personaj -> analiza lucida si subiectiva
-	- arg3 -> roman psihologic prin tema, conflict interior, constiina problematizanta a protagonistului, introspectia, monologul interior, fluxul constiintei
+	- arg2 -> naratiunea la personaa 1, naratorul are rolul de personaj -> analiza lucida si subiectiva -> tehnica introspectiei
+	- arg3 -> roman psihologic prin tema, conflict interior, constiina problematizanta a protagonistului, monologul interior, fluxul constiintei
+	-arg4 -> tipologia personajului intelectual. In articolul sau Camil Petrescu pledeaza pentru un roman modern, definit prin prezenta cazurilor de constiinta.
 	
 	
 Titlul:
 	- Dupa Gerald Gennete ...
-	- analitic, 2 parti pe caer le cunoaste protagonitul, dragoste+razboi
+	- analitic, 2 parti pe care le cunoaste protagonitul, dragoste+razboi
 	- prima parte fictionala, a doua urmareste jurnalul de campanie al autorului
-	- "noapte" -> traire in constiinta 
+	- "noapte" -> traire in constiinta, exprima singuratatea
 	- "ultima" si "prima" -> frontiere temporale ale unor epoci diferite fundamental prin viziune si traire
 
 
+Conflicte:
+	-interior : psihologic, erotic si cognitiv
+	-exterior social si moral
+	-cele 2 experiente devin modalitati de autocunoastere prin analiza neoboista a sinelui. Eroul analizeaza in amanunt cu luciditate -> insetat dupa adevar
+	-confl subliniaza natura psihologica
+	
+	
 Tema:
 	- Dupa Boris Tomasevski
 	- tema iubirii domina etc
