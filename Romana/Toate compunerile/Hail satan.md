@@ -10,7 +10,7 @@ Genul Epic
  0 [[2 Moara cu noroc/Relatia dintre 2 personaje/Z Complet]]
 3 "Ion" - Liviu Rebreanu
  0[[3 Ion/Constructie personaj/Z Complet]]
- 0 [[3 Ion/Tema si viziunea/Z Complet]]
+ 0 [[0.3 Ion/Tema si viziunea/Z Complet]]
  0 [[3 Ion/Relatia dintre 2 personaje/Z Complet]]
 4 "Baltagul" - Mihail Sadoveanu
  0 [[4 Baltagul/Constructie personaj/Z Complet]]

@@ -18,7 +18,7 @@ Opera:
 		-pers tipice in sit tipice, cond de mediu si epoca prin 	tematica sociala ...
 	-sustinand viziunea realista, la baza romanului stau elemente ale realului indicate de scriitor
 		-Ion al glanetasului, harnic dar sarac, pronunta cuv "pamant" cu pasiune -> fiinta dorita si adorata -> Ion
-		-Taranul instarit vaduc, care a batut o pe Rodica pentru ca s-a daruit celui mai sarac baiat din sat -> Ana
+		-Taranul instarit vaduv, care a batut o pe Rodica pentru ca s-a daruit celui mai sarac baiat din sat -> Ana
 		-Gestul unui taran de a saruta pamantul ca pe o ibovnica
 	-Constructia personajelor se bazeaza pe evenimente reale si solide
 

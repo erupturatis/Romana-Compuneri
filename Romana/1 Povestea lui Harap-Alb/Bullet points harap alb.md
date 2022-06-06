@@ -1,5 +1,12 @@
 Introducere
 
+Realism def:
+	-sfarsitul sec 19 - Franta - impotriva romantismului
+	-redarea cu obiectivitate a realitatii
+	-Viziunea artistica a lumii textului ->realista ->reda realismul tipologic -> viziunea obiectiva
+	-teme -> familia, banii
+	-Veridicitatea si verosimilitatea actiunii si a personajelo -> cronotop, detaliul semnificativ
+	
 Opera:
 	-1877, Ion Creanga, Convorbiri literare
 	- basm cult
@@ -32,8 +39,7 @@ Caract de bildungsroman:
 	-decapitarea treapta fin -> nunta si schimbarea statutului social -> deznodamantul reface echilibrul 
 	-pers negative, spanul si imp ros -> omul insemnat din mentalitatea rurala
 	
-
-
+	
 Concluzie
 
 
