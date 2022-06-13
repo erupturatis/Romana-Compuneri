@@ -5,9 +5,9 @@ Modernism:
 	- intelectualizarea prozei, mediu rural-> citadin
 	- romanul romanesc interbelic se prod prin sincronozia cu filozofia si stiinta dar si cu literatura universala
 	- unicitatea perspectivei narative, naratiunea la pers1
-	-ruperea de traditie prin promovarea unei noi forme culturale
-	-Eugen Lovinescu in Romania, cenaclul "Sburatorul"
-	-Din perspectiva astuia ->lirica romana -> trebuie liricizare si intelectualizare 
+	- ruperea de traditie prin promovarea unei noi forme culturale
+	- Eugen Lovinescu in Romania, cenaclul "Sburatorul"
+	- Din perspectiva astuia ->lirica romana -> trebuie liricizare si intelectualizare 
 	- dezvoltarea romanului de analiza psihologica 
 
 
@@ -19,7 +19,7 @@ Opera:
 	- arg1 -> schimbarea mediului rural cu cel citadin -> o scoate din tiparul realist cu satenii
 	- arg2 -> naratiunea la personaa 1, naratorul are rolul de personaj -> analiza lucida si subiectiva -> tehnica introspectiei
 	- arg3 -> roman psihologic prin tema, conflict interior, constiina problematizanta a protagonistului, monologul interior, fluxul constiintei
-	-arg4 -> tipologia personajului intelectual. In articolul sau Camil Petrescu pledeaza pentru un roman modern, definit prin prezenta cazurilor de constiinta.
+	- arg4 -> tipologia personajului intelectual. In articolul sau Camil Petrescu pledeaza pentru un roman modern, definit prin prezenta cazurilor de constiinta.
 	
 	
 Titlul:

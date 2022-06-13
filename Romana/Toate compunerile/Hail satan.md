@@ -6,7 +6,7 @@ Genul Epic
  0 [[1 Povestea lui Harap-Alb/Relatia dintre 2 personaje/Z Complet]]
 2 "Moara cu noroc" - Ioan Slavici
  0 [[2 Moara cu noroc/Constructie personaj/Z Complet]]
- 0 [[2 Moara cu noroc/Tema si viziunea/Z Complet]]
+ 0 [[0.2 Moara cu noroc/Tema si viziunea/Z Complet]]
  0 [[2 Moara cu noroc/Relatia dintre 2 personaje/Z Complet]]
 3 "Ion" - Liviu Rebreanu
  0[[3 Ion/Constructie personaj/Z Complet]]
@@ -14,15 +14,15 @@ Genul Epic
  0 [[3 Ion/Relatia dintre 2 personaje/Z Complet]]
 4 "Baltagul" - Mihail Sadoveanu
  0 [[4 Baltagul/Constructie personaj/Z Complet]]
- 0 [[4 Baltagul/Tema si viziunea/Z Complet]]
+ 0 [[0.4 Baltagul/Tema si viziunea/Z Complet]]
  0 [[4 Baltagul/Relatia dintre 2 personaje/Z Complet]]
 5 "Ultima noapte de dragoste, intaia noapte de razboi" - Camil Petrescu
  0 [[5 Ultima noapte de dragost, intaia noapte de razboi/Constructie personaj/Z Complet]]
- 0 [[5 Ultima noapte de dragost, intaia noapte de razboi/Z Complet]]
+ 0 [[0.5 Ultima noapte de dragost, intaia noapte de razboi/Z Complet]]
  0 [[5 Ultima noapte de dragost, intaia noapte de razboi/Relatia dintre 2 personaje/Z Complet]]
 6 "Enigma Otiliei" - George Calinescu
  0 [[6 Enigma Otiliei/Constructie personaj/Z Complet]]
- 0 [[6 Enigma Otiliei/Tema si viziunea/Z Complet]]
+ 0 [[0.6 Enigma Otiliei/Tema si viziunea/Z Complet]]
  0 [[6 Enigma Otiliei/Relatia dintre 2 personaje/Z Complet]]
 7 "Morometii" - Marin Preda
  0 [[7 Morometii/Constructie personaj/Z Complet]]
@@ -43,7 +43,7 @@ Genul Dramatic
 Genul liric 
 
 10 "Luceafarul" - Mihai Eminescu
- 0 [[7 Luceafarul/Tema si viziunea/Z Complet]]
+ 0 [[0.7 Luceafarul/Tema si viziunea/Z Complet]]
 11 "Plumb" - George Bacovia
  0 [[10 Plumb/Tema si viziunea/Z Complet]]
 12 "Eu nu strivesc coroloa de minuni a lumii" - Lucian Blaga

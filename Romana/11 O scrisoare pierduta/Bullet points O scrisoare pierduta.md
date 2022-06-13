@@ -7,23 +7,23 @@ Realismul:
 	
 Comedia:
 	- specie a genului dramatic, reprez scenica, satirizeaza -> provoaca rasul -> scop moralizator si final fericit
-	- opera caragialia ->  criticarea aspectelor sociale si morale -> baza realista alegeri 1883 -> viata familiala, familia lui Trahanache
+	- opera lui caragiale ->  critica societate/alegeri 1883/viata
 	
 Opera:
-	- "O scrisoare pierduta", jucata la teatrul national bucuresti 1884, I.L Caragiale
-	- opera valorifica categoria estetica a comicului, care desemneaza un fenomen care produce rasul fiind creat printr-un contrast intre esenta si aparenta
+	- "O scrisoare pierduta",teatrul national bucuresti 1884, I.L Caragiale
+	- opera valorifica comicul -> contrast aparenta esenta -> provoaca ras
 	
 Titlu:
 	- Gerard Genette ...
 	- analitic, articolul nehotarat "o" -> sugereaza ca scrisoare e unul dintre multele mijloace de santaj
 	- Catavencu si Dandanache folosesc acelasi mod pentru a si atinge scopurile
 	- drumul scrisorii: Zoe -> Ct -> Nae -> Ct -> Zoe
-	- Scrisa de Tipatesc adresata lui Zoe, sotia lui Trahanache -> intriga
+	- Scrisa de Tipatesc adresata lui Zoe, sotia lui Trahanache -
 
 Tema:
 	- Boris Tomasevski
 	- degradarea vietii publice, lupta pentru putere, imoralitatea vietii de familie
-	- ilustrata in conflic -> aparent politic deoarece nu se infrunta 2 ideologii politice -> partide politice care isi doresc puterea
+	- ilustrata in conflict -> aparent politic deoarece nu se infrunta 2 ideologii politice -> partide politice care isi doresc puterea
 
 Stuff:
 	- Tipurile de comic redau intentia satirica a dramaturgului, fixand tema sociala si intentia moralizatoare a operei 
@@ -47,8 +47,11 @@ Personaj caracterizare:
 	-  numele sau "zaharia" sugereaza zaharul iar "trahanache" faptul ca poate fi foarte usor manipulat de catre superiorii "de la centru"
 	
 Secventa 1
-	- Textul scrisorii este redat si interpretat corect de Trahanache dar pastreaza ambiguitate privind propria receptare -> duplicitar trahanache reda din memori textul scrisorii lui Tipatescu -> identifica momentul intalnirii amoroase dintre cei 2 -> scrisoare reda esenta imoralitatii vietii de familie 
+	- Textul scrisorii este redat si interpretat corect de Trahanache dar pastreaza ambiguitate privind propria receptare -> duplicitar trahanache reda din memorie textul scrisorii lui Tipatescu -> identifica momentul intalnirii amoroase dintre cei 2 -> scrisoare reda esenta imoralitatii vietii de familie 
 	- O secv relevanta reiese din faptul ca desi senil si ramolit, plat in gandire, el este numai aparent naiv, pentru ca pregateste contrasantajul. El gaseste imedia polita falsificata prin care Catavencu isi insusise 5000 de lei de la Societatea "Aurora Economica ROmana" pe care o conducea si il santajeaza la randul sau amenintandu l ca il va da publicitatii, iar in acest fel raspunde santajului cu santaj
+	
+Secventa 2
+	- O alta secventea relevanta pentru tema piesei este numărarea voturilor în actul II de către Trahanache, Farfuridi şi Brânzovenescu, înainte ca alegerile să  fi avut efectiv loc. Ignorant din naivitate sau din “diplomaţia” vârstei, tringhiul conjugal este înfăţişat de Trahanache ca o inocentă convieţuire frăţească. Trahanache scoate la iveală şi plafonarea personajului principal-Ștefan Tipătescu- într-o situaţie inferioară capacităţilor sale, subjugat voinţei unei femei ambiţioase.
 	- Finalul , cine "de la centru", subliniaza tema luptei pentru putere, este trimis fericit, personajele nu evolueaza iar aparenta este pastrata prin returnarea scrisorii
 	
 Concluzie

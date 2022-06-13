@@ -51,7 +51,7 @@ Primul tablou
 	-astrul ii ofera fetei nemurirea, dar este refuzat
 	-fata marturiseste cu luciditate diferenta de gandire "desi vorbesti pe inteles eu nu te pot pricepe", iar luceafarul accepta sacrificiul pe care  fata nu l putea percepe
 	-Viziunea romantica este marcata de calatoria la creator, drumul marcand ca destinatie inceputurile lumii
-	-Demiurgul il refuza, nevrand sa i ofere "o ora de iubire", ii explica diferenta dintre fiinterele superioare si muritori
+	-Demiurgul il refuza, nevrand sa i ofere "o ora de iubire", ii explica diferenta dintre fiintele superioare si muritori
 
 Ultimul tablou
 	-propune un dialog cosmic-terestru, cu motive precum asfintitul si lumea
