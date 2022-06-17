@@ -12,9 +12,9 @@ Modernism:
 
 
 Opera:
-	- Camil Petrescu, 1930
-	- roman interbelic, modernist, psihologic, subiectiv
-	- formual estetica proustiana, directie modernista
+	- Camil Petrescu, 1930 
+	- roman interbelic, modernist, psihologic, subiectiv 
+	- formual estetica proustiana, directie modernista 
 	- respinge romanul traditional -> sincronizare cu psihologia si filozofia epocii
 	- arg1 -> schimbarea mediului rural cu cel citadin -> o scoate din tiparul realist cu satenii
 	- arg2 -> naratiunea la personaa 1, naratorul are rolul de personaj -> analiza lucida si subiectiva -> tehnica introspectiei

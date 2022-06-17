@@ -7,13 +7,13 @@ Modernism def:
 	-Din perspectiva astuia ->lirica romana -> trebuie liricizare si intelectualizare 
 	-> sincronizare cu occidentul
 	
-Poezia Testament
-	-Scrisa de Ion Barbu
-	-Volumul omonim -1930
-	-Volumul e expresie a ermetismului barbian si modernismului
-	-este o arta poetica -> face din creatie o expresie a jocului "secund"-> da nastere unei lumi ideatice-> diferita de ce reflecta (univ nostru)
-	-prelungire a geometriei -> se constituie printr-o concentrare semnatica si formala, trasaturi ce dovedesc apartenenta la miscarea modernista -> Barbu considera despre "esente" nu se poate vorbi decat in "limbajul eliptic al teoremelor".
-	-poetul marturiseste -> formatia sa de matematician se regaseste in conceptia privind creatia poetica
+Poezia Joc secund 
+	-Scrisa de Ion Barbu 
+	-Volumul omonim -1930 
+	-Volumul e expresie a ermetismului barbian si modernismului 
+	-este o arta poetica -> face din creatie o expresie a jocului "secund" -> da nastere unei lumi ideatice -> diferita de ce reflecta (univ nostru) 
+	-prelungire a geometriei -> se constituie printr-o concentrare semnatica si formala, trasaturi ce dovedesc apartenenta la miscarea modernista -> Barbu considera despre "esente" nu se poate vorbi decat in "limbajul eliptic al teoremelor". 
+	-poetul marturiseste -> formatia sa de matematician se regaseste in conceptia privind creatia poetica 
 
 Tema
 	-Dupa Boris Tomasevski "unitatea sensurilor diverselor elemente ale operei"

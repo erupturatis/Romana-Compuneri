@@ -36,8 +36,6 @@ Tema
 	-problematica familiei, mostenirii si a paternitatii 
 	-mostenirea e firul rosu al romanului -> cand Stanica ia banii acesta moare
 
-
-	
 Perspectiva narativa
 	-obiectiva, heretodiegetic o,o,o
 	-pers tipice in situatii tipice
@@ -74,7 +72,7 @@ Otilia:
 		-Aurica, fata fara capatai si fara parinti
 		-Mos Costache o iubeste ca pe fetita lui
 		-Pascalopol o considera cu temperament de artist si are dragoste
-		-Felix, fata admirabila, superioara, pe care n-o inteleg
+		-Felix, fata admirabila, superioara, pe care n-o intelege
 	- fizic e descrisa in mod realist, prin tehnica detaliului semnificativ, redata prin ochii lui Felix, personaj reflector, evidentiaza trasaturile psihologice specifice feminitatii, tinerete, delicatete, farmec, cochetarie, ingenuitate.
 	
 	
